@@ -214,9 +214,9 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE) for de
 
 ## Author
 
-**Vineeth Krishna S K**
+**Vineeth Krishna Srinivasan Kalyanaraman**
 - GitHub: [@vineek28](https://github.com/vineek28)
-- Institution: VIT University
+- Institution: Formerly at W.P Carey School of Business at Arizona State University & Vellore Institute of Technology 
 
 ---
 
